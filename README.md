@@ -1,4 +1,5 @@
-# 🚀 EchoNova - Advanced Deepfake Detection Platform
+# 🚀 EchoNova - Advanced Deepfake Detection Platform 
+ LIVE LINK : (https://echo-nova-deepfake-analyser.vercel.app/)
 
 <div align="center">
   <img src="https://via.placeholder.com/150x150/8b5cf6/ffffff?text=EN" alt="EchoNova Logo" width="120" height="120" style="border-radius: 20px;">
